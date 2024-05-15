@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](./no-code.png)
+![alt text](https://raw.githubusercontent.com/Low-Code-No-Code/.github/main/profile/no-code.png)
 
 ---
 
