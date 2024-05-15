@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](What-is-No-code-Developmet-1200x675-731x411.png)
+![alt text](./no-code.png)
 
 ---
 
